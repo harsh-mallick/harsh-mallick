@@ -1,4 +1,4 @@
-﻿![Logo](https://i.ibb.co/4Sjk21r/Profile.jpg)
+<img src = "https://i.ibb.co/4Sjk21r/Profile.jpg" width = "230px" height = "250px" style="border-radius:50%"/>
 
 # Hi, I'm TechSorcerer 👋
 
