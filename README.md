@@ -2,6 +2,8 @@
 
 # Hi, I'm TechSorcerer 👋
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh-mallick" alt="harsh-mallick" /></a>
+  
 ## 🚀 About Me
 
 Hey there, I'm Harsh Mallick, a 15-year-old with a passion for all things digital. I've dabbled in full-stack web development and 3D design, pouring my creativity into bringing virtual worlds to life. I explore the latest AI releases in my free time; I'm always on the lookout for new online tech to integrate into my projects.
