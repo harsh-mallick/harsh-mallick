@@ -19,7 +19,7 @@ Hey there, I'm Harsh Mallick, a 15-year-old with a passion for all things digita
 [![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=red)](/) [![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=blue)](/) [![Javascript](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript&logoColor=yellow)](/) [![Tailwind Css](https://img.shields.io/badge/Tailwind_css-000?style=for-the-badge&logo=tailwindcss&logoColor=#06B6D4)](/) 
 
 [![Node JS](https://img.shields.io/badge/Node_JS-000?style=for-the-badge&logo=node.js&logoColor=##339933)](/) [![Mongo DB](https://img.shields.io/badge/Mongo_DB-000?style=for-the-badge&logo=mongodb&logoColor=##339933)](/) [![ReactJS](https://img.shields.io/badge/React_JS-000?style=for-the-badge&logo=react&logoColor=#61DAFB)](/) [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=#3776AB)](/)
-
+[![NextJS](https://img.shields.io/badge/Next_Js-000?style=for-the-badge&logo=vercel&logoColor=#3776AB)](/)
 ## Feedback
 
 If you have any feedback, please reach out to me at harshmallick052009@gmail.com
