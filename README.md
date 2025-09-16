@@ -6,11 +6,11 @@
   
 ## 🚀 About Me
 
-Hey there, I'm Harsh Mallick, a 15-year-old with a passion for all things digital. I've dabbled in full-stack web development and 3D design, pouring my creativity into bringing virtual worlds to life. I explore the latest AI releases in my free time; I'm always on the lookout for new online tech to integrate into my projects.
+Hey there, I'm Harsh Mallick, a 16-year-old with a passion for all things digital. I've dabbled in full-stack web development and 3D design, pouring my creativity into bringing virtual worlds to life. I explore the latest AI releases in my free time; I'm always on the lookout for new online tech to integrate into my projects.
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]("Under Maintainance")
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://harshmallick.is-a.dev)
 
 [![twitter](https://img.shields.io/badge/discord-4f5f98?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/993506513534595213)
 
@@ -23,3 +23,4 @@ Hey there, I'm Harsh Mallick, a 15-year-old with a passion for all things digita
 ## Feedback
 
 If you have any feedback, please reach out to me at harshmallick052009@gmail.com
+
